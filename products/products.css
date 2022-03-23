@@ -1,0 +1,9 @@
+body{
+  background-color: #ff1a94;
+}
+
+.heading{
+  font-size: 4vw;
+  transform: translate(0, -30vh);
+  color: white;
+}
