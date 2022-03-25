@@ -1,7 +1,7 @@
 body {
   padding: 0;
   margin: 0;
-  background-color:black;
+  background-color:#ff1a94;
 }
 
 section#accueil {
@@ -9,7 +9,7 @@ section#accueil {
   
 	position: relative;
 	width: 100%;
-	height: 100vh;
+	height: 80vh;
 	overflow: hidden;
 }
 
@@ -21,7 +21,7 @@ section#accueil {
 		margin-bottom: -200px;
    
 		background: #ff1a94;
-		width: 120%;
+		width: 150vw;
 		height: 300px;
 
 		-webkit-animation: triangle_v 20s infinite cubic-bezier(.14,.36,.59,.9);
@@ -135,7 +135,7 @@ section#accueil {
 		margin-top: -150px;
 
 		background: #0ba0e5;
-		width: 120%;
+		width: 150vw;
 		height: 250px;
 
 		transform: rotate(7deg);

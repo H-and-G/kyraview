@@ -3,14 +3,14 @@
   color:white;
   width: 8em;
   margin: 20px;
-  font-size: 20px;
+  font-size: 2vw;
   
     font: 400 Google Sans,-apple-system,BlinkMacSystemFont,sans-serif;
     letter-spacing: normal;
   transform: translate(0, -30vh);
   border-radius: 8px;
   padding: 10px;
-  border: 1px solid white;
+  
   background-color: #AB87FF;
 }
 .nav-wrapper{
@@ -26,4 +26,16 @@
   transform: translate(0, -30vh);
   width: 20vw;
   height: auto;
+}
+.big_logo_mobile{
+  transform: translate(0, -30vh);
+  width: 70vw;
+  height: auto;
+}
+.row {
+  flew-wrap: wrap;
+}
+.col {
+  flew-wrap: wrap;
+  align-content:centtr;
 }

@@ -1,9 +1,18 @@
 body{
   background-color: #ff1a94;
+  overflow-x: hidden;
 }
-
+span{
+  background-color: #ff1a94;
+}
 .heading{
   font-size: 4vw;
   transform: translate(0, -30vh);
   color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  .section#accueil{
+    height: 600px;
+  }
 }
