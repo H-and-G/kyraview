@@ -37,5 +37,7 @@
 }
 .col {
   flew-wrap: wrap;
-  align-content:centtr;
+}
+a {
+  color: #0ba0e5;
 }
